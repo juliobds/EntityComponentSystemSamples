@@ -2,7 +2,7 @@
 
 ## Entity
 
-__Entity__ is an ID. You can think of it as a super lightweight __GameObject__ that does not even have a name by default.
+__Entity__ is an ID. You can think of it as a super lightweight __GameObject__ that doesn't even have a name by default.
 
 You can add and remove components from Entities at runtime. Entity ID's are stable. In fact they are the only stable way to store a reference to another component or Entity.
 
